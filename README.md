@@ -86,9 +86,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Rdvprasad36&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=Rdvprasad36&icon=7&color=3)](https://visitcount.itsvg.in)
 
-## 🐍 GitHub Contribution Snake Game:
+## 🐍 GitHub Contribution:
 ![GitHub Snake](https://github.com/Rdvprasad36/Rdvprasad36/blob/output/github-snake.svg)
 
