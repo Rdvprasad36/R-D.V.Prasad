@@ -89,4 +89,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Rdvprasad36&icon=7&color=3)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🐍 GitHub Contribution Snake Game:
+![GitHub Snake](https://github.com/Rdvprasad36/Rdvprasad36/blob/output/github-snake.svg)
+
